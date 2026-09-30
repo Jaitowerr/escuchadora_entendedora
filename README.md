@@ -32,7 +32,6 @@ Si responde que no quiere registrarse, esa voz se ignora y se guarda únicamente
 El audio no se conserva por defecto.
 El perfil vocal se guardará localmente y protegido.
 Empezamos por escuchadora.py
-He intentado leer el archivo adjunto, pero ahora mismo la interfaz indica que no puede extraer su contenido. Puede estar vacío, en un formato no reconocible o haber un problema con el archivo.
 
 Para hacer el primer cambio correctamente, pega aquí el contenido actual de escuchadora.py. Si está vacío, dime simplemente:
 
@@ -46,13 +45,6 @@ Diferenciar entrada de audio disponible de una configuración sin micrófono.
 No grabar ni registrar voces todavía.
 Después de comprobar que esa base funciona, actualizaremos README.md en un cambio separado.
 
-Credits: 9
-
-Si, lo que es el main que tiene , vamos hacerlo orientado a objetos ok? Objeto persona,etc...
-
-idea_python_escuchadora
-RouteLLM
-Routing to GPT-5.6 Luna
 Sí, totalmente. Lo haremos orientado a objetos desde el principio.
 
 La estructura conceptual será:
@@ -86,8 +78,8 @@ Conversacion
 └── fecha y hora
 Try:
 |
-Pero no meteremos todas las funciones ahora. Para mantenerlo limpio, el primer paso será crear:
 
+Pero no meteremos todas las funciones ahora. Para mantenerlo limpio, el primer paso será crear:
 Microfono, para representar cada dispositivo.
 Escuchadora, como clase principal del programa.
 main(), que crea una Escuchadora y muestra los micrófonos disponibles.
