@@ -1,0 +1,9 @@
+[project]
+name = "escuchadora-entendedora"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "cffi>=2.1.1",
+    "sounddevice>=0.5.6",
+    "soundfile>=0.14.0",
+]
