@@ -2,7 +2,7 @@
 
 ## ⚠️ Términos de Uso y Derechos de Autor
 
-© 2026 [Tu Nombre Completo o Usuario de GitHub]. Todos los derechos reservados.
+© 2026 [Jaitowerr]. Todos los derechos reservados.
 
 Este software y todo su código fuente son de propiedad exclusiva del autor. 
 Queda estrictamente prohibida la copia, reproducción, modificación, distribución 
